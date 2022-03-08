@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+
+.mbtn-10{
+  margin:10px;
+}
+
+.mt-10{
+  margin-top: 10px;
+}
+
+.mb-10{
+  margin-bottom: 10px;
+}
+
+.va-m{
+  vertical-align: middle;
+}
